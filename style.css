@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300&display=swap');
+*{
+    font-family: 'Noto Sans', sans-serif;
+}
+body{
+    background-color:#5CDB95
+}
+h1{
+    text-align:center;
+    background-color:#8EE4AF;
+    padding:50px;
+    margin-top:10px;
+    margin-bottom:10px;
+    font-size:30pt;
+}
+.restart-btn{
+    background-color:#05386B;
+    padding:10px;
+    font-size: medium;
+    border-radius:2px;
+    color:#EDF5E1;
+    margin-left:47%;
+    margin-top:20px;
+}
+
+.restart-btn:hover{
+    background-color:#EDF5E1;
+    color:#05386B;
+
+}
